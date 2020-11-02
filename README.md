@@ -28,11 +28,6 @@ I am a Full-Stack Web Developer based in Porto, Portugal, and I enjoy to bring n
 
 ## Knowledge
 
-
-**Operational System**
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black&link=https://github.com/diogofgomespinheiro)(https://github.com/diogofgomespinheiro)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white&link=https://github.com/diogofgomespinheiro)(https://github.com/diogofgomespinheiro)
-
 ## GitHub Overview
 <img align="left" alt="Diogo Pinheiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogofgomespinheiro&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogofgomespinheiro)](https://github.com/anuraghazra/github-readme-stats) 
