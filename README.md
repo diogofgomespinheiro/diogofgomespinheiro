@@ -4,6 +4,7 @@
 
 ## About me
 I am a Full-Stack Web Developer based in Porto, Portugal.
+
 I enjoy to bring new ideas to life, whether that be one of the simplest things, like a to-do list app or a complex one like netflix.
 
 - 🛠  I’m currently working at EdirectInsure as a Full-Stack Developer.
