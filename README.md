@@ -3,9 +3,7 @@
 [![Portfolio](https://img.shields.io/static/v1?label=%20&message=Portfolio&color=orange)](https://fierce-earth-84105.herokuapp.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-fgpinheiro/)
 
 ## About me
-I am a Full-Stack Web Developer based in Porto, Portugal.
-
-I enjoy to bring new ideas to life, whether that be one of the simplest things, like a to-do list app or a complex one like netflix.
+I am a Full-Stack Web Developer based in Porto, Portugal, and I enjoy to bring new ideas to life, whether that be one of the simplest things, like a to-do list app or a complex one like netflix.
 
 - 🛠  I’m currently working at EdirectInsure as a Full-Stack Developer.
 - 💙  I'm passionate about React and Node.js.
