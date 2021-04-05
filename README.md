@@ -81,5 +81,5 @@ I am a Full-Stack Web Developer based in Porto, Portugal, and I enjoy to bring n
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white&link=https://github.com/diogofgomespinheiro)](https://github.com/diogofgomespinheiro)
 
 ## GitHub Overview
-<img align="left" alt="Diogo Pinheiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogofgomespinheiro&show_icons=true&theme=dracula" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogofgomespinheiro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="Diogo Pinheiro Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogofgomespinheiro&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogofgomespinheiro)](https://github.com/anuraghazra/github-readme-stats) 
